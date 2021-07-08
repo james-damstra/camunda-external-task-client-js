@@ -41,5 +41,6 @@
     "coveragePathIgnorePatterns": [
       "/node_modules/"
     ]
-  }
+  },
+  "types": "./lib/camunda-external-task-client-js.d.ts"
 }
